@@ -1,0 +1,16 @@
+
+.task-container {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  padding: 5px;
+}
+
+.task__description {
+  margin: 0 20px;
+  min-width: 300px;
+}
+
+.task__description--checked {
+  text-decoration: line-through;
+}

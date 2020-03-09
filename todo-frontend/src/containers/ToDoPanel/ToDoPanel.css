@@ -1,0 +1,20 @@
+
+.todo-panel {
+  margin-top: 50px;
+}
+
+.todo-create {
+  margin-bottom: 50px;
+}
+
+.chat-input {
+  background-color: rgb(224, 243, 255);
+  outline: none;
+  border: none;
+  border-bottom: 2px solid black;
+  padding: 10px;
+  font: inherit;
+  border-radius: 2px;
+  margin-left: 5px;
+  width: 600px;
+}

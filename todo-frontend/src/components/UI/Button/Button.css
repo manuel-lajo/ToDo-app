@@ -1,0 +1,21 @@
+
+.task-button {
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 2px;
+  color: black;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 8px 15px;
+  margin-left: 5px;
+  min-width: 100px;
+}
+
+.task-button--check {
+  background-color: #5C9210;
+}
+
+.task-button--delete {
+  background-color: #dd5a5a;
+}
